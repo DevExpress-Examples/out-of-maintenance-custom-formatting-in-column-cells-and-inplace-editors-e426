@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/ManualCellFormatting/Default.aspx) (VB: [Default.aspx.vb](./VB/ManualCellFormatting/Default.aspx.vb))
+* [Default.aspx.cs](./CS/ManualCellFormatting/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/ManualCellFormatting/Default.aspx.vb))
+<!-- default file list end -->
 # Custom formatting in column cells and inplace editors
 
 
