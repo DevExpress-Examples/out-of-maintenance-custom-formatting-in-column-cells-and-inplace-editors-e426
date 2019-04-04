@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [Default.aspx](./CS/ManualCellFormatting/Default.aspx) (VB: [Default.aspx](./VB/ManualCellFormatting/Default.aspx))
-* [Default.aspx.cs](./CS/ManualCellFormatting/Default.aspx.cs) (VB: [Default.aspx](./VB/ManualCellFormatting/Default.aspx))
+* [Default.aspx.cs](./CS/ManualCellFormatting/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/ManualCellFormatting/Default.aspx.vb))
 <!-- default file list end -->
 # Custom formatting in column cells and inplace editors
 
