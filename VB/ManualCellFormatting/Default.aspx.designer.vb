@@ -11,30 +11,30 @@
 Namespace ManualCellFormatting
 
 
-    ''' <summary>
-    ''' _Default class.
-    ''' </summary>
-    ''' <remarks>
-    ''' Auto-generated class.
-    ''' </remarks>
-    Partial Public Class _Default
+	''' <summary>
+	''' _Default class.
+	''' </summary>
+	''' <remarks>
+	''' Auto-generated class.
+	''' </remarks>
+	Partial Public Class _Default
 
-        ''' <summary>
-        ''' form1 control.
-        ''' </summary>
-        ''' <remarks>
-        ''' Auto-generated field.
-        ''' To modify move field declaration from designer file to code-behind file.
-        ''' </remarks>
-        Protected form1 As Global.System.Web.UI.HtmlControls.HtmlForm
+		''' <summary>
+		''' form1 control.
+		''' </summary>
+		''' <remarks>
+		''' Auto-generated field.
+		''' To modify move field declaration from designer file to code-behind file.
+		''' </remarks>
+		Protected form1 As System.Web.UI.HtmlControls.HtmlForm
 
-        ''' <summary>
-        ''' ASPxGridView1 control.
-        ''' </summary>
-        ''' <remarks>
-        ''' Auto-generated field.
-        ''' To modify move field declaration from designer file to code-behind file.
-        ''' </remarks>
-        Protected ASPxGridView1 As Global.DevExpress.Web.ASPxGridView
-    End Class
+		''' <summary>
+		''' ASPxGridView1 control.
+		''' </summary>
+		''' <remarks>
+		''' Auto-generated field.
+		''' To modify move field declaration from designer file to code-behind file.
+		''' </remarks>
+		Protected ASPxGridView1 As Global.DevExpress.Web.ASPxGridView
+	End Class
 End Namespace
